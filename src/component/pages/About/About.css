@@ -1,0 +1,9 @@
+.about{
+    text-align: center;
+        color:palevioletred;
+        background-color: aquamarine;
+        font-size: 50px;
+        height: 100vh;
+        width: 100vw;
+        align-items: center;
+}
